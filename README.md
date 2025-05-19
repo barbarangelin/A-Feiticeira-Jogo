@@ -1,9 +1,11 @@
-# A-Feiticeira-Jogo
+# A-Feiticeira-Jogo   ![license](https://badgen.net/static/license/MIT/blue) 
 A Visual Novel created using Ren'py Engine and story based on the short-story by Inglês de Souza
 
 The game was created for academic purposes when I was writing a article about how video games can introduce people in the reading book world. The story is based in the short-story "A Feiticeira" (_The Witch_) by Inglês de Souza and the Engine used for the project is Ren'py since it is a free program and one of the best for development of Visual Novel games.
 
-The game includes:
+<sub> **The game history language is pt-br</sub>
+
+**The game includes:**
 
 - Original short-story text with minimun changes
 - Original gui design using PhotoshopCS6
@@ -21,9 +23,9 @@ The game includes:
 
   *The program is not a executable program yet*
   
-  **1:** **Make sure to have installed [Ren'py](https://www.renpy.org/) program in your machine**
+  **1.** **Make sure to have installed [Ren'py](https://www.renpy.org/) program in your machine**
   
-  > You will need this software to manage the code properly. In this way, you will not have problems when running the Visual Novel code through the 
+  > - You will need this software to manage the code properly. In this way, you will not have problems when running the Visual Novel code through the 
   game engine.
   
 
@@ -38,10 +40,10 @@ The game includes:
 
 
 
-  **2: Install the last release zip code**
+  **2. Install the last release zip code**
   
 
-  > To have full acess to the code, just go to the [releases](https://github.com/barbarangelin/A-Feiticeira-Jogo/releases) section on the  right side of your display.
+  > - To have full acess to the code, just go to the [releases](https://github.com/barbarangelin/A-Feiticeira-Jogo/releases) section on the  right side of your display.
 
 
   ![Releases v 1](https://github.com/user-attachments/assets/7ae36c7f-9be8-4703-867a-f657afe6490d)
@@ -52,15 +54,21 @@ The game includes:
    ![Zip](https://github.com/user-attachments/assets/550af000-89d7-4873-b6b6-bc7a02af5e06)
 
 
-  **3: Unzip the code in the Ren'py projects directory**
+  **3. Unzip the code in the Ren'py projects directory**
 
-  > When installing Ren'py, you will create a new directory for your projects. Place the unzipped code in this path.
+  > - When installing Ren'py, you will create a new directory for your projects. Place the unzipped code in this path.
 
   ![Directory](https://github.com/user-attachments/assets/db3da5d7-8a51-49e2-905c-1a6676ed5073)
 
-  > After placing the code folder, the launcher of Ren'py should show the new game project
+  > - After placing the code folder, the launcher of Ren'py should show the new game project
 
   ![Launch](https://github.com/user-attachments/assets/9c668b6a-1393-4c46-8620-0e134bd7fb6b)
+
+  **4. Launch the project and have fun**
+  > - With all the previous steps performed correctly, the game will be ready to run.
+  
+  ![Run-display](https://github.com/user-attachments/assets/53929c6c-92a5-4db4-9512-6c578d6e663b)
+
 
 
 
