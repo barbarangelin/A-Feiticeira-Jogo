@@ -19,9 +19,19 @@ The game was created for academic purposes when I was writing a article about ho
 - [Contributing](#contributing)
 - [License](#license)
 
-  # Installation
+# Installation
 
-  *The program is not a executable program yet*
+**VIA ITCH.IO**
+  
+You can download the game for Windows and Linux on my itch.io profile [here](https://seitadracula.itch.io/a-feiticeira)
+  
+<img width="336" height="382" alt="Screenshot from 2025-08-05 12-44-26" src="https://github.com/user-attachments/assets/4e6434e0-705b-45a7-994d-78ee59c86fce" />
+
+
+
+
+
+**VIA SOURCE CODE**
   
   **1.** **Make sure to have installed [Ren'py](https://www.renpy.org/) program in your machine**
   
